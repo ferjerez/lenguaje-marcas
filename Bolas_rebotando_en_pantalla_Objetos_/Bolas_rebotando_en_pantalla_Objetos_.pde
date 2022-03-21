@@ -16,6 +16,9 @@ int minutos =0;
 int RecordMin = 0;
 int RecordSeg = 0;
 int RecordMils = 0;
+/*
+Arregla esto
+*/
 
 void setup() {    //Se repite una vez
   size(800, 800);
